@@ -1,0 +1,5 @@
+framework module Jansson {
+    header "jansson.h"
+    link "jansson"
+}
+
