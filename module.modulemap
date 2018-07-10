@@ -1,4 +1,4 @@
-framework module Jansson {
+module Jansson [system] {
     header "jansson.h"
     link "jansson"
 }
