@@ -7,11 +7,11 @@ Swift modulemaps for [jansson](https://github.com/akheron/jansson).
 Install `jansson` via a Package Manager.
 
 ```
-$ brew install libjwt
+$ brew install jansson
 ```
 
 ```
-$ apt-get install libjwt
+$ apt-get install libjansson-dev
 ```
 
 Then you add the dependency to your `Package.swift`.
