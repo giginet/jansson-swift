@@ -1,6 +1,6 @@
 # jansson-swift
 
-Swift modulemaps for [libjwt](https://github.com/akheron/jansson).
+Swift modulemaps for [jansson](https://github.com/akheron/jansson).
 
 ## Installation
 
